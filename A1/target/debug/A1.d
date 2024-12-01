@@ -1,0 +1,1 @@
+D:\CodingProjects\Rust\AdventOfCode\A1\target\debug\A1.exe: D:\CodingProjects\Rust\AdventOfCode\A1\src\main.rs D:\CodingProjects\Rust\AdventOfCode\A1\src\sub1.rs D:\CodingProjects\Rust\AdventOfCode\A1\src\sub2.rs
